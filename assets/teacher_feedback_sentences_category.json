@@ -1,0 +1,678 @@
+[
+  {
+    "id": "feedback.mp4_sent_000",
+    "video_file": "feedback.mp4",
+    "start": "000.000",
+    "end": "002.171",
+    "text": "Good job, keep it up.",
+    "category": "success"
+  },
+  {
+    "id": "feedback.mp4_sent_001",
+    "video_file": "feedback.mp4",
+    "start": "002.897",
+    "end": "006.374",
+    "text": "Perfect pronunciation.",
+    "category": "success"
+  },
+  {
+    "id": "feedback.mp4_sent_002",
+    "video_file": "feedback.mp4",
+    "start": "006.953",
+    "end": "011.010",
+    "text": "Great, your pronunciation is clear.",
+    "category": "success"
+  },
+  {
+    "id": "feedback.mp4_sent_003",
+    "video_file": "feedback.mp4",
+    "start": "011.589",
+    "end": "014.200",
+    "text": "Move to the next word.",
+    "category": "success"
+  },
+  {
+    "id": "feedback.mp4_sent_004",
+    "video_file": "feedback.mp4",
+    "start": "014.766",
+    "end": "017.060",
+    "text": "Let's move on.",
+    "category": "success"
+  },
+  {
+    "id": "feedback.mp4_sent_005",
+    "video_file": "feedback.mp4",
+    "start": "017.098",
+    "end": "019.700",
+    "text": "Ready for the next word?",
+    "category": "success"
+  },
+
+  {
+    "id": "feedback.mp4_sent_006",
+    "video_file": "feedback.mp4",
+    "start": "019.992",
+    "end": "023.175",
+    "text": "You said a different word.",
+    "category": "wrong_word"
+  },
+  {
+    "id": "feedback.mp4_sent_007",
+    "video_file": "feedback.mp4",
+    "start": "023.178",
+    "end": "026.365",
+    "text": "Oops! That’s not the word.",
+    "category": "wrong_word"
+  },
+  {
+    "id": "feedback.mp4_sent_008",
+    "video_file": "feedback.mp4",
+    "start": "026.660",
+    "end": "029.240",
+    "text": "I heard a different word.",
+    "category": "wrong_word"
+  },
+  {
+    "id": "feedback.mp4_sent_009",
+    "video_file": "feedback.mp4",
+    "start": "030.134",
+    "end": "033.135",
+    "text": "Let’s focus on the correct one.",
+    "category": "wrong_word"
+  },
+  {
+    "id": "feedback.mp4_sent_010",
+    "video_file": "feedback.mp4",
+    "start": "033.615",
+    "end": "037.085",
+    "text": "Let’s practice the word once more.",
+    "category": "wrong_word"
+  },
+  {
+    "id": "feedback.mp4_sent_011",
+    "video_file": "feedback.mp4",
+    "start": "037.380",
+    "end": "040.270",
+    "text": "Can you say the correct word again?",
+    "category": "wrong_word"
+  },
+
+  {
+    "id": "feedback.mp4_sent_012",
+    "video_file": "feedback.mp4",
+    "start": "041.412",
+    "end": "044.325",
+    "text": "I heard more than one word.",
+    "category": "multiple_words"
+  },
+  {
+    "id": "feedback.mp4_sent_013",
+    "video_file": "feedback.mp4",
+    "start": "044.330",
+    "end": "047.220",
+    "text": "You said multiple words.",
+    "category": "multiple_words"
+  },
+  {
+    "id": "feedback.mp4_sent_014",
+    "video_file": "feedback.mp4",
+    "start": "047.230",
+    "end": "050.700",
+    "text": "Let’s focus on just one.",
+    "category": "multiple_words"
+  },
+  {
+    "id": "feedback.mp4_sent_015",
+    "video_file": "feedback.mp4",
+    "start": "050.993",
+    "end": "054.175",
+    "text": "Please say only one word.",
+    "category": "multiple_words"
+  },
+
+  {
+    "id": "feedback.mp4_sent_016",
+    "video_file": "feedback.mp4",
+    "start": "055.091",
+    "end": "059.041",
+    "text": "Oops! I did not hear all the parts of the word.",
+    "category": "syllable"
+  },
+  {
+    "id": "feedback.mp4_sent_017",
+    "video_file": "feedback.mp4",
+    "start": "059.665",
+    "end": "062.783",
+    "text": "It sounded like the word was missing a part.",
+    "category": "syllable"
+  },
+  {
+    "id": "feedback.mp4_sent_018",
+    "video_file": "feedback.mp4",
+    "start": "063.615",
+    "end": "067.980",
+    "text": "No problem—try again, slowly and clearly.",
+    "category": "syllable"
+  },
+  {
+    "id": "feedback.mp4_sent_019",
+    "video_file": "feedback.mp4",
+    "start": "068.812",
+    "end": "073.178",
+    "text": "Nice try—let’s say every part this time.",
+    "category": "syllable"
+  },
+  {
+    "id": "feedback.mp4_sent_020",
+    "video_file": "feedback.mp4",
+    "start": "074.010",
+    "end": "077.750",
+    "text": "Tap once for each part and say it again.",
+    "category": "syllable"
+  },
+  {
+    "id": "feedback.mp4_sent_021",
+    "video_file": "feedback.mp4",
+    "start": "078.583",
+    "end": "083.572",
+    "text": "Listen, then say it in parts, not too fast.",
+    "category": "syllable"
+  },
+
+  {
+    "id": "feedback.mp4_sent_022",
+    "video_file": "feedback.mp4",
+    "start": "084.815",
+    "end": "088.355",
+    "text": "Oops! The ending sound was too soft.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_023",
+    "video_file": "feedback.mp4",
+    "start": "088.769",
+    "end": "092.719",
+    "text": "It sounds like the last sound got skipped.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_024",
+    "video_file": "feedback.mp4",
+    "start": "093.135",
+    "end": "096.877",
+    "text": "You missed the ending sound, try again.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_025",
+    "video_file": "feedback.mp4",
+    "start": "097.915",
+    "end": "102.074",
+    "text": "The last sound wasn’t clear. Please say it again.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_026",
+    "video_file": "feedback.mp4",
+    "start": "102.698",
+    "end": "107.687",
+    "text": "No worries—try again and say the ending clearly.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_027",
+    "video_file": "feedback.mp4",
+    "start": "108.310",
+    "end": "113.716",
+    "text": "Say the word again and make the last sound loud and clear.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_028",
+    "video_file": "feedback.mp4",
+    "start": "114.130",
+    "end": "119.121",
+    "text": "You added an extra sound at the end. Let’s correct that.",
+    "category": "ending"
+  },
+  {
+    "id": "feedback.mp4_sent_029",
+    "video_file": "feedback.mp4",
+    "start": "119.537",
+    "end": "124.942",
+    "text": "The ending sound was too long. Try saying it shorter.",
+    "category": "ending"
+  },
+
+  {
+    "id": "feedback.mp4_sent_030",
+    "video_file": "feedback.mp4",
+    "start": 124.944,
+    "end": 127.645,
+    "text": "Check your vowel sound /æ/.",
+    "category": "vowel",
+    "phoneme": "æ"
+  },
+  {
+    "id": "feedback.mp4_sent_031",
+    "video_file": "feedback.mp4",
+    "start": 130.550,
+    "end": 133.674,
+    "text": "Check your vowel sound /e/.",
+    "category": "vowel",
+    "phoneme": "e"
+  },
+  {
+    "id": "feedback.mp4_sent_032",
+    "video_file": "feedback.mp4",
+    "start": 135.960,
+    "end": 139.287,
+    "text": "Check your vowel sound /ɪ/.",
+    "category": "vowel",
+    "phoneme": "ɪ"
+  },
+  {
+    "id": "feedback.mp4_sent_033",
+    "video_file": "feedback.mp4",
+    "start": 141.366,
+    "end": 146.355,
+    "text": "Check your vowel sound /ɒ/ or /ɑ/.",
+    "category": "vowel",
+    "phoneme": "ɒ"
+  },
+  {
+    "id": "feedback.mp4_sent_034",
+    "video_file": "feedback.mp4",
+    "start": 148.266,
+    "end": 151.344,
+    "text": "Check your vowel sound /ʌ/.",
+    "category": "vowel",
+    "phoneme": "ʌ"
+  },
+  {
+    "id": "feedback.mp4_sent_035",
+    "video_file": "feedback.mp4",
+    "start": 151.345,
+    "end": 154.255,
+    "text": "Check your vowel sound /iː/.",
+    "category": "vowel",
+    "phoneme": "iː"
+  },
+  {
+    "id": "feedback.mp4_sent_036",
+    "video_file": "feedback.mp4",
+    "start": 158.622,
+    "end": 161.947,
+    "text": "Check your vowel sound /uː/.",
+    "category": "vowel",
+    "phoneme": "uː"
+  },
+  {
+    "id": "feedback.mp4_sent_037",
+    "video_file": "feedback.mp4",
+    "start": 166.936,
+    "end": 170.262,
+    "text": "Check your vowel sound /eɪ/.",
+    "category": "vowel",
+    "phoneme": "eɪ"
+  },
+  {
+    "id": "feedback.mp4_sent_038",
+    "video_file": "feedback.mp4",
+    "start": 181.489,
+    "end": 184.607,
+    "text": "Check your vowel sound /ɜː/.",
+    "category": "vowel",
+    "phoneme": "ɜː"
+  },
+  {
+    "id": "feedback.mp4_sent_039",
+    "video_file": "feedback.mp4",
+    "start": 187.725,
+    "end": 190.844,
+    "text": "Check your vowel sound /ɔː/.",
+    "category": "vowel",
+    "phoneme": "ɔː"
+  },
+  {
+    "id": "feedback.mp4_sent_040",
+    "video_file": "feedback.mp4",
+    "start": 193.335,
+    "end": 196.460,
+    "text": "Check your vowel sound /aʊ/.",
+    "category": "vowel",
+    "phoneme": "aʊ"
+  },
+
+  {
+    "id": "feedback.mp4_sent_041",
+    "video_file": "feedback.mp4",
+    "start": "197.285",
+    "end": "202.280",
+    "text": "Check your vowel sound, make sure it's pronounced clearly.",
+    "category": "vowel"
+  },
+  {
+    "id": "feedback.mp4_sent_042",
+    "video_file": "feedback.mp4",
+    "start": "204.359",
+    "end": "210.175",
+    "text": "Listen closely to the vowel sound, it needs to be clearer.",
+    "category": "vowel"
+  },
+  {
+    "id": "feedback.mp4_sent_043",
+    "video_file": "feedback.mp4",
+    "start": "212.465",
+    "end": "217.670",
+    "text": "Try saying the vowel sound a little longer and more clearly.",
+    "category": "vowel"
+  },
+
+  {
+    "id": "feedback.mp4_sent_044",
+    "video_file": "feedback.mp4",
+    "start": "242.608",
+    "end": "245.519",
+    "text": "I could not hear your voice.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_045",
+    "video_file": "feedback.mp4",
+    "start": "245.935",
+    "end": "250.092",
+    "text": "Please hold the record button and say the word.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_046",
+    "video_file": "feedback.mp4",
+    "start": "251.756",
+    "end": "254.250",
+    "text": "It was very quiet.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_047",
+    "video_file": "feedback.mp4",
+    "start": "254.455",
+    "end": "258.408",
+    "text": "Speak a little louder and try again.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_048",
+    "video_file": "feedback.mp4",
+    "start": "259.235",
+    "end": "262.155",
+    "text": "No sound was recorded.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_049",
+    "video_file": "feedback.mp4",
+    "start": "262.566",
+    "end": "266.724",
+    "text": "Check your microphone and say the word again.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_050",
+    "video_file": "feedback.mp4",
+    "start": "267.345",
+    "end": "270.050",
+    "text": "I think you whispered.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_051",
+    "video_file": "feedback.mp4",
+    "start": "270.260",
+    "end": "274.625",
+    "text": "Use your clear classroom voice.",
+    "category": "silence"
+  },
+  {
+    "id": "feedback.mp4_sent_052",
+    "video_file": "feedback.mp4",
+    "start": "219.533",
+    "end": "224.314",
+    "text": "Check your consonant sound, it should be sharper.",
+    "category": "consonant"
+  },
+  {
+    "id": "feedback.mp4_sent_053",
+    "video_file": "feedback.mp4",
+    "start": "226.394",
+    "end": "232.838",
+    "text": "Make sure to pronounce the consonant clearly, it’s important for clarity.",
+    "category": "consonant"
+  },
+  {
+    "id": "feedback.mp4_sent_054",
+    "video_file": "feedback.mp4",
+    "start": "234.196",
+    "end": "240.737",
+    "text": "Focus on the consonant sound, it needs to be more distinct.",
+    "category": "consonant"
+  },
+
+  {
+    "id": "feedback.mp4_sent_055",
+    "video_file": "feedback.mp4",
+    "start": 273.684,
+    "end": 277.460,
+    "text": "Check your consonant sound /b/.",
+    "category": "consonant",
+    "phoneme": "b"
+  },
+  {
+    "id": "feedback.mp4_sent_056",
+    "video_file": "feedback.mp4",
+    "start": 277.465,
+    "end": 281.820,
+    "text": "Check your consonant sound /ch/.",
+    "category": "consonant",
+    "phoneme": "tʃ"
+  },
+  {
+    "id": "feedback.mp4_sent_057",
+    "video_file": "feedback.mp4",
+    "start": 282.404,
+    "end": 286.760,
+    "text": "Check your consonant sound /d/.",
+    "category": "consonant",
+    "phoneme": "d"
+  },
+  {
+    "id": "feedback.mp4_sent_058",
+    "video_file": "feedback.mp4",
+    "start": 287.049,
+    "end": 291.407,
+    "text": "Check your consonant sound /dh/.",
+    "category": "consonant",
+    "phoneme": "ð"
+  },
+  {
+    "id": "feedback.mp4_sent_059",
+    "video_file": "feedback.mp4",
+    "start": 291.697,
+    "end": 296.055,
+    "text": "Check your consonant sound /f/.",
+    "category": "consonant",
+    "phoneme": "f"
+  },
+  {
+    "id": "feedback.mp4_sent_060",
+    "video_file": "feedback.mp4",
+    "start": 296.635,
+    "end": 300.704,
+    "text": "Check your consonant sound /g/.",
+    "category": "consonant",
+    "phoneme": "ɡ"
+  },
+  {
+    "id": "feedback.mp4_sent_061",
+    "video_file": "feedback.mp4",
+    "start": 301.285,
+    "end": 305.352,
+    "text": "Check your consonant sound /h/.",
+    "category": "consonant",
+    "phoneme": "h"
+  },
+  {
+    "id": "feedback.mp4_sent_062",
+    "video_file": "feedback.mp4",
+    "start": 305.643,
+    "end": 310.001,
+    "text": "Check your consonant sound /j/.",
+    "category": "consonant",
+    "phoneme": "j"
+  },
+  {
+    "id": "feedback.mp4_sent_063",
+    "video_file": "feedback.mp4",
+    "start": 310.290,
+    "end": 314.649,
+    "text": "Check your consonant sound /k/.",
+    "category": "consonant",
+    "phoneme": "k"
+  },
+  {
+    "id": "feedback.mp4_sent_064",
+    "video_file": "feedback.mp4",
+    "start": 314.935,
+    "end": 319.295,
+    "text": "Check your consonant sound /l/.",
+    "category": "consonant",
+    "phoneme": "l"
+  },
+  {
+    "id": "feedback.mp4_sent_065",
+    "video_file": "feedback.mp4",
+    "start": 319.300,
+    "end": 323.945,
+    "text": "Check your consonant sound /m/.",
+    "category": "consonant",
+    "phoneme": "m"
+  },
+  {
+    "id": "feedback.mp4_sent_066",
+    "video_file": "feedback.mp4",
+    "start": 323.948,
+    "end": 328.595,
+    "text": "Check your consonant sound /n/.",
+    "category": "consonant",
+    "phoneme": "n"
+  },
+  {
+    "id": "feedback.mp4_sent_067",
+    "video_file": "feedback.mp4",
+    "start": 328.597,
+    "end": 333.245,
+    "text": "Check your consonant sound /ng/.",
+    "category": "consonant",
+    "phoneme": "ŋ"
+  },
+  {
+    "id": "feedback.mp4_sent_068",
+    "video_file": "feedback.mp4",
+    "start": 333.820,
+    "end": 337.604,
+    "text": "Check your consonant sound /p/.",
+    "category": "consonant",
+    "phoneme": "p"
+  },
+  {
+    "id": "feedback.mp4_sent_069",
+    "video_file": "feedback.mp4",
+    "start": 338.180,
+    "end": 342.539,
+    "text": "Check your consonant sound /r/.",
+    "category": "consonant",
+    "phoneme": "r"
+  },
+  {
+    "id": "feedback.mp4_sent_070",
+    "video_file": "feedback.mp4",
+    "start": 342.541,
+    "end": 346.899,
+    "text": "Check your consonant sound /s/.",
+    "category": "consonant",
+    "phoneme": "s"
+  },
+  {
+    "id": "feedback.mp4_sent_071",
+    "video_file": "feedback.mp4",
+    "start": 346.902,
+    "end": 351.547,
+    "text": "Check your consonant sound /sh/.",
+    "category": "consonant",
+    "phoneme": "ʃ"
+  },
+  {
+    "id": "feedback.mp4_sent_072",
+    "video_file": "feedback.mp4",
+    "start": 351.830,
+    "end": 355.904,
+    "text": "Check your consonant sound /t/.",
+    "category": "consonant",
+    "phoneme": "t"
+  },
+  {
+    "id": "feedback.mp4_sent_073",
+    "video_file": "feedback.mp4",
+    "start": 356.196,
+    "end": 360.263,
+    "text": "Check your consonant sound /th/.",
+    "category": "consonant",
+    "phoneme": "θ"
+  },
+  {
+    "id": "feedback.mp4_sent_074",
+    "video_file": "feedback.mp4",
+    "start": 360.554,
+    "end": 364.912,
+    "text": "Check your consonant sound /v/.",
+    "category": "consonant",
+    "phoneme": "v"
+  },
+  {
+    "id": "feedback.mp4_sent_075",
+    "video_file": "feedback.mp4",
+    "start": 365.490,
+    "end": 369.560,
+    "text": "Check your consonant sound /w/.",
+    "category": "consonant",
+    "phoneme": "w"
+  },
+  {
+    "id": "feedback.mp4_sent_076",
+    "video_file": "feedback.mp4",
+    "start": 369.562,
+    "end": 373.919,
+    "text": "Check your consonant sound /y/.",
+    "category": "consonant",
+    "phoneme": "j"
+  },
+  {
+    "id": "feedback.mp4_sent_077",
+    "video_file": "feedback.mp4",
+    "start": 374.205,
+    "end": 378.570,
+    "text": "Check your consonant sound /z/.",
+    "category": "consonant",
+    "phoneme": "z"
+  },
+  {
+    "id": "feedback.mp4_sent_078",
+    "video_file": "feedback.mp4",
+    "start": 378.855,
+    "end": 382.635,
+    "text": "Check your consonant sound /zh/.",
+    "category": "consonant",
+    "phoneme": "ʒ"
+  }
+
+]
