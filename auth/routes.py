@@ -12,7 +12,6 @@ import os
 import datetime
 import bcrypt
 import jwt
-import pyodbc
 from flask import Blueprint, request, jsonify, make_response, current_app
 
 from .database import get_db_connection
