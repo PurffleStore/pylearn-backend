@@ -101,5 +101,3 @@ temp/
 
 
 # Avoid committing SQLite DB shards
-
-*.sqlite3
