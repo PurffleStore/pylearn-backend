@@ -92,10 +92,6 @@ temp/
 
 # Chroma vector DB (avoid committing local DB files)
 
-ragg/chroma/
-
-py-learn-backend/ragg/chroma/
-
 
 
 # Ensure all __pycache__ are ignored everywhere
