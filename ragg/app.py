@@ -173,7 +173,7 @@ def rag_serve_audio(filename: str):
 @rag_bp.after_app_request
 def add_cors_headers(resp):
     origin = request.headers.get("Origin")
-    if origin in ("http://localhost:4200", "http://127.0.0.1:4200"):
+    if origin in ("http://localhost:4200", "http://127.0.0.1:4200", "https://pykara.net"):
         resp.headers["Access-Control-Allow-Origin"] = origin
         resp.headers["Vary"] = "Origin"
         resp.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization, X-User"
