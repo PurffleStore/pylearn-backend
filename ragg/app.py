@@ -650,7 +650,7 @@ if __name__ == "__main__":
     app = Flask(__name__)
     CORS(
         app,
-        resources={r"/rag/*": {"origins": ["http://localhost:4200", "http://127.0.0.1:4200", "https://pylearn-backend-production.up.railway.app"]}},
+        resources={r"/rag/*": {"origins": ["http://localhost:4200", "http://127.0.0.1:4200", "https://pykara.net"]}},
         supports_credentials=True,
         allow_headers=["Content-Type", "Authorization", "X-User"],
         methods=["GET", "POST", "OPTIONS"],
