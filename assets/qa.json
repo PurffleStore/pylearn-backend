@@ -1,0 +1,334 @@
+[
+  {
+    "sno": 1,
+    "question": "What is a tense?",
+    "answer": "A tense shows the time of an action or event in a sentence.\nIt tells us whether the action happens in the past, present, or future.\nTense helps the reader understand when something occurs.\nAlmost every complete sentence uses a tense to show time.",
+    "audio_url": "assets/staticchat/lessonsaudios/1.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/1.mp4",
+    "keyword": "tense"
+  },
+  {
+    "sno": 2,
+    "question": "Why are tenses important?",
+    "answer": "Tenses help us speak and write clearly and correctly.\nThey remove confusion about the time of actions.\nCorrect tense usage helps show the order of events.\nWithout tenses, sentences may give the wrong meaning.",
+    "audio_url": "assets/staticchat/lessonsaudios/2.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/2.mp4",
+    "keyword": "importance of tenses"
+  },
+  {
+    "sno": 3,
+    "question": "How many main types of tenses are there?",
+    "answer": "There are three main types of tenses in English.\nThey are Present Tense, Past Tense, and Future Tense.\nEach main tense talks about a different time.\nThese tenses help organise actions clearly.",
+    "audio_url": "assets/staticchat/lessonsaudios/3.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/3.mp4",
+    "keyword": "types of tenses"
+  },
+  {
+    "sno": 4,
+    "question": "What does the present tense describe?",
+    "answer": "The present tense describes actions happening now.\nIt is also used for habits and daily routines.\nIt shows general facts and truths.\nThis tense is commonly used in daily life.",
+    "audio_url": "assets/staticchat/lessonsaudios/4.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/4.mp4",
+    "detail_url": "assets/staticchat/lessonsvideos/4_detail.mp4",
+    "story_url": "assets/staticchat/lessonsvideos/4_story.mp4",
+    "example_url": "assets/staticchat/lessonsvideos/26.mp4",
+    "keyword": "present tense"
+  },
+  {
+    "sno": 5,
+    "question": "What is Simple Present Tense used for?",
+    "answer": "Simple Present Tense is used for daily habits.\nIt describes repeated actions and routines.\nIt also shows general facts.\nThis tense talks about things that are always true.",
+    "audio_url": "assets/staticchat/lessonsaudios/5.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/5.mp4",
+    "keyword": "simple present tense"
+  },
+  {
+    "sno": 6,
+    "question": "What is Present Continuous Tense?",
+    "answer": "Present Continuous Tense shows actions happening now.\nIt is used for temporary actions.\nThe action is in progress at present time.\nThis tense shows ongoing activity.",
+    "audio_url": "assets/staticchat/lessonsaudios/6.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/6.mp4",
+    "keyword": "present continuous tense"
+  },
+  {
+    "sno": 7,
+    "question": "What is Present Perfect Tense?",
+    "answer": "Present Perfect Tense talks about past actions.\nThese actions are connected to the present.\nThe exact time is not important.\nThe result of the action matters now.",
+    "audio_url": "assets/staticchat/lessonsaudios/7.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/7.mp4",
+    "keyword": "present perfect tense"
+  },
+  {
+    "sno": 8,
+    "question": "What is Present Perfect Continuous Tense?",
+    "answer": "This tense shows actions that started in the past.\nThe action is still continuing now.\nIt focuses on how long the action has happened.\nIt shows duration up to the present.",
+    "audio_url": "assets/staticchat/lessonsaudios/8.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/8.mp4",
+    "keyword": "present perfect continuous tense"
+  },
+  {
+    "sno": 9,
+    "question": "What does the past tense explain?",
+    "answer": "The past tense explains actions that already happened.\nThese actions are completed.\nThey did not happen in the present.\nThis tense is used for earlier events.",
+    "audio_url": "assets/staticchat/lessonsaudios/9.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/9.mp4",
+    "detail_url": "assets/staticchat/lessonsvideos/9_detail.mp4",
+    "story_url": "assets/staticchat/lessonsvideos/9_story.mp4",
+    "example_url": "assets/staticchat/lessonsvideos/31.mp4",
+    "keyword": "past tense"
+  },
+  {
+    "sno": 10,
+    "question": "What is Simple Past Tense?",
+    "answer": "Simple Past Tense is used for finished actions.\nThe action happened at a specific time.\nThe time may be mentioned or understood.\nThis tense shows completed events.",
+    "audio_url": "assets/staticchat/lessonsaudios/10.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/10.mp4",
+    "keyword": "simple past tense"
+  },
+  {
+    "sno": 11,
+    "question": "What is Past Continuous Tense?",
+    "answer": "Past Continuous Tense shows actions happening in the past.\nThe action was in progress at a certain time.\nIt often describes background actions.\nAnother action may interrupt it.",
+    "audio_url": "assets/staticchat/lessonsaudios/11.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/11.mp4",
+    "keyword": "past continuous tense"
+  },
+  {
+    "sno": 12,
+    "question": "What is Past Perfect Tense?",
+    "answer": "Past Perfect Tense shows an earlier past action.\nIt happened before another past action.\nThis tense helps show correct order.\nIt avoids confusion in past events.",
+    "audio_url": "assets/staticchat/lessonsaudios/12.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/12.mp4",
+    "keyword": "past perfect tense"
+  },
+  {
+    "sno": 13,
+    "question": "What is Past Perfect Continuous Tense?",
+    "answer": "This tense shows a long past action.\nThe action continued for some time.\nIt happened before another past action.\nThe duration of the action is important.",
+    "audio_url": "assets/staticchat/lessonsaudios/13.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/13.mp4",
+    "keyword": "past perfect continuous tense"
+  },
+  {
+    "sno": 14,
+    "question": "What does the future tense describe?",
+    "answer": "The future tense describes actions that will happen.\nThese actions are not done yet.\nIt talks about plans and predictions.\nIt helps explain future events.",
+    "audio_url": "assets/staticchat/lessonsaudios/14.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/14.mp4",
+    "detail_url": "assets/staticchat/lessonsvideos/14_detail.mp4",
+    "story_url": "assets/staticchat/lessonsvideos/14_story.mp4",
+    "example_url": "assets/staticchat/lessonsvideos/36.mp4",
+    "keyword": "future tense"
+  },
+  {
+    "sno": 15,
+    "question": "What is Simple Future Tense?",
+    "answer": "Simple Future Tense talks about future actions.\nIt is used for promises and decisions.\nIt also shows future facts.\nThis tense helps in planning.",
+    "audio_url": "assets/staticchat/lessonsaudios/15.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/15.mp4",
+    "keyword": "simple future tense"
+  },
+  {
+    "sno": 16,
+    "question": "What is Future Continuous Tense?",
+    "answer": "Future Continuous Tense shows ongoing future actions.\nThe action will be in progress later.\nIt happens at a specific future time.\nThis tense shows continuity in the future.",
+    "audio_url": "assets/staticchat/lessonsaudios/16.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/16.mp4",
+    "keyword": "future continuous tense"
+  },
+  {
+    "sno": 17,
+    "question": "What is Future Perfect Tense?",
+    "answer": "Future Perfect Tense shows completed future actions.\nThe action finishes before a future time.\nIt focuses on completion.\nThis tense shows early finishing of actions.",
+    "audio_url": "assets/staticchat/lessonsaudios/17.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/17.mp4",
+    "detail_url": "assets/staticchat/lessonsvideos/17_detail.mp4",
+    "story_url": "assets/staticchat/lessonsvideos/17_story.mp4",
+    "example_url": "assets/staticchat/lessonsvideos/39.mp4",
+    "keyword": "future perfect tense"
+  },
+  {
+    "sno": 18,
+    "question": "What is Future Perfect Continuous Tense?",
+    "answer": "This tense shows long future actions.\nThe action continues until a future point.\nIt focuses on duration.\nIt shows how long an action will last.",
+    "audio_url": "assets/staticchat/lessonsaudios/18.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/18.mp4",
+    "keyword": "future perfect continuous tense"
+  },
+  {
+    "sno": 19,
+    "question": "How many forms does each main tense have?",
+    "answer": "Each main tense has four forms.\nThey are Simple, Continuous, Perfect, and Perfect Continuous.\nThese forms show different meanings.\nThey describe actions in detail.",
+    "audio_url": "assets/staticchat/lessonsaudios/19.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/19.mp4",
+    "keyword": "tense forms"
+  },
+  {
+    "sno": 20,
+    "question": "Why are tense forms needed?",
+    "answer": "Tense forms help explain actions clearly.\nThey show time and duration.\nDifferent forms give different meanings.\nThey improve clarity in sentences.",
+    "audio_url": "assets/staticchat/lessonsaudios/20.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/20.mp4",
+    "keyword": "need for tense forms"
+  },
+  {
+    "sno": 21,
+    "question": "Which tense is most used in daily life?",
+    "answer": "Present Tense is most used in daily life.\nIt talks about routine actions.\nIt describes habits and facts.\nIt is easy to understand and use.",
+    "audio_url": "assets/staticchat/lessonsaudios/21.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/21.mp4",
+    "keyword": "most used tense"
+  },
+  {
+    "sno": 22,
+    "question": "Which tense shows actions happening now?",
+    "answer": "Present Continuous Tense shows current actions.\nThe action is happening at present.\nIt is temporary in nature.\nIt shows ongoing activity.",
+    "audio_url": "assets/staticchat/lessonsaudios/22.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/22.mp4",
+    "keyword": "actions happening now"
+  },
+  {
+    "sno": 23,
+    "question": "Which tense connects past and present?",
+    "answer": "Present Perfect Tense connects past and present.\nThe action happened earlier.\nThe result is important now.\nTime is not clearly mentioned.",
+    "audio_url": "assets/staticchat/lessonsaudios/23.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/23.mp4",
+    "keyword": "past and present connection"
+  },
+  {
+    "sno": 24,
+    "question": "Which tense shows action duration up to now?",
+    "answer": "Present Perfect Continuous Tense shows this.\nThe action started in the past.\nIt is still happening now.\nDuration is the main focus.",
+    "audio_url": "assets/staticchat/lessonsaudios/24.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/24.mp4",
+    "keyword": "action duration"
+  },
+  {
+    "sno": 25,
+    "question": "Which tense is commonly used in stories?",
+    "answer": "Past Tense is commonly used in stories.\nIt describes completed events.\nIt helps narrate past actions.\nReaders understand the sequence clearly.",
+    "audio_url": "assets/staticchat/lessonsaudios/25.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/25.mp4",
+    "keyword": "tense in stories"
+  },
+  {
+    "sno": 26,
+    "question": "Give an example of Present Tense and explain it.",
+    "answer": "Example: I eat rice every day.\nThis sentence is in present tense.\nIt shows a daily habit.\nThe action happens regularly.",
+    "audio_url": "assets/staticchat/lessonsaudios/26.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/26.mp4",
+    "keyword": "present tense example"
+  },
+  {
+    "sno": 27,
+    "question": "Give an example of Simple Present Tense and explain it.",
+    "answer": "Example: She goes to school.\nThis sentence shows a routine.\nThe action happens every day.\nIt is always true.",
+    "audio_url": "assets/staticchat/lessonsaudios/27.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/27.mp4",
+    "keyword": "simple present example"
+  },
+  {
+    "sno": 28,
+    "question": "Give an example of Present Continuous Tense and explain it.",
+    "answer": "Example: She is reading a book.\nThe action is happening now.\nIt is in progress at present.\nIt is a temporary action.",
+    "audio_url": "assets/staticchat/lessonsaudios/28.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/28.mp4",
+    "keyword": "present continuous example"
+  },
+  {
+    "sno": 29,
+    "question": "Give an example of Present Perfect Tense and explain it.",
+    "answer": "Example: I have finished my work.\nThe action happened in the past.\nThe result is important now.\nThe time is not mentioned.",
+    "audio_url": "assets/staticchat/lessonsaudios/29.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/29.mp4",
+    "keyword": "present perfect example"
+  },
+  {
+    "sno": 30,
+    "question": "Give an example of Present Perfect Continuous Tense and explain it.",
+    "answer": "Example: I have been studying for two hours.\nThe action started in the past.\nIt is still continuing now.\nThe duration is important.",
+    "audio_url": "assets/staticchat/lessonsaudios/30.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/30.mp4",
+    "keyword": "present perfect continuous example"
+  },
+  {
+    "sno": 31,
+    "question": "Give an example of Past Tense and explain it.",
+    "answer": "Example: I played cricket yesterday.\nThe action happened in the past.\nIt is already completed.\nIt does not happen now.",
+    "audio_url": "assets/staticchat/lessonsaudios/31.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/31.mp4",
+    "keyword": "past tense example"
+  },
+  {
+    "sno": 32,
+    "question": "Give an example of Simple Past Tense and explain it.",
+    "answer": "Example: She visited her friend.\nThe action is finished.\nIt happened earlier.\nIt shows a completed action.",
+    "audio_url": "assets/staticchat/lessonsaudios/32.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/32.mp4",
+    "keyword": "simple past example"
+  },
+  {
+    "sno": 33,
+    "question": "Give an example of Past Continuous Tense and explain it.",
+    "answer": "Example: I was watching TV.\nThe action was happening in the past.\nIt was in progress at that time.\nIt shows ongoing past action.",
+    "audio_url": "assets/staticchat/lessonsaudios/33.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/33.mp4",
+    "keyword": "past continuous example"
+  },
+  {
+    "sno": 34,
+    "question": "Give an example of Past Perfect Tense and explain it.",
+    "answer": "Example: I had eaten before he came.\nOne action happened first.\nIt happened before another past action.\nIt shows order of events.",
+    "audio_url": "assets/staticchat/lessonsaudios/34.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/34.mp4",
+    "keyword": "past perfect example"
+  },
+  {
+    "sno": 35,
+    "question": "Give an example of Past Perfect Continuous Tense and explain it.",
+    "answer": "Example: She had been working all day.\nThe action continued for some time.\nIt happened before another past action.\nThe duration is shown clearly.",
+    "audio_url": "assets/staticchat/lessonsaudios/35.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/35.mp4",
+    "keyword": "past perfect continuous example"
+  },
+  {
+    "sno": 36,
+    "question": "Give an example of Future Tense and explain it.",
+    "answer": "Example: I will go to school tomorrow.\nThe action will happen later.\nIt is not done yet.\nIt talks about the future.",
+    "audio_url": "assets/staticchat/lessonsaudios/36.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/36.mp4",
+    "keyword": "future tense example"
+  },
+  {
+    "sno": 37,
+    "question": "Give an example of Simple Future Tense and explain it.",
+    "answer": "Example: She will help her mother.\nThe action is in the future.\nIt shows a decision or promise.\nIt will happen later.",
+    "audio_url": "assets/staticchat/lessonsaudios/37.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/37.mp4",
+    "keyword": "simple future example"
+  },
+  {
+    "sno": 38,
+    "question": "Give an example of Future Continuous Tense and explain it.",
+    "answer": "Example: I will be studying at night.\nThe action will be in progress.\nIt happens at a future time.\nIt shows continuity.",
+    "audio_url": "assets/staticchat/lessonsaudios/38.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/38.mp4",
+    "keyword": "future continuous example"
+  },
+  {
+    "sno": 39,
+    "question": "Give an example of Future Perfect Tense and explain it.",
+    "answer": "Example: I will have finished my work.\nThe action will be completed.\nIt finishes before a future time.\nIt shows completion.",
+    "audio_url": "assets/staticchat/lessonsaudios/39.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/39.mp4",
+    "keyword": "future perfect example"
+  },
+  {
+    "sno": 40,
+    "question": "Give an example of Future Perfect Continuous Tense and explain it.",
+    "answer": "Example: I will have been working for five hours.\nThe action continues into the future.\nIt shows how long it lasts.\nDuration is important.",
+    "audio_url": "assets/staticchat/lessonsaudios/40.mp3",
+    "video_url": "assets/staticchat/lessonsvideos/40.mp4",
+    "keyword": "future perfect continuous example"
+  }
+]

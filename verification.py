@@ -136,7 +136,8 @@ def register_feature_blueprints(app):
     """Register feature blueprints with error handling"""
     blueprints = [       
         ("ragg.app", "rag_bp", "/rag"),
-        ("pronunciation", "pronunciation_bp", "/pronunciation"),       
+        ("pronunciation", "pronunciation_bp", "/pronunciation"), 
+        ("staticchat", "staticchat_bp", "/staticchat"),       
         ("ragg.ingest_trigger", "ingest_trigger_bp", "/rag"),
     ]
     
