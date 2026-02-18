@@ -137,7 +137,8 @@ def register_feature_blueprints(app):
     blueprints = [       
         ("ragg.app", "rag_bp", "/rag"),
         ("pronunciation", "pronunciation_bp", "/pronunciation"), 
-        ("staticchat", "staticchat_bp", "/staticchat"),       
+        ("staticchat", "staticchat_bp", "/staticchat"),   
+        ("chat_llm", "chat_llm_bp", "/chat_llm"),        
         ("ragg.ingest_trigger", "ingest_trigger_bp", "/rag"),
     ]
     

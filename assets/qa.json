@@ -32,9 +32,9 @@
     "detail_url": "assets/staticchat/lessonsvideos/4_detail.mp4",
     "story_url": "assets/staticchat/lessonsvideos/4_story.mp4",
     "example_url": "assets/staticchat/lessonsvideos/26.mp4",
-    "detail_text": "The present tense has four forms: Simple Present, Present Continuous, Present Perfect, and Present Perfect Continuous. Each form is used for a different purpose depending on the time and duration of the action.",
-    "story_text": "Ravi wakes up at 6 AM every day. He brushes his teeth, eats breakfast, and goes to school. Right now, he is studying English. He has finished his homework. He has been reading for two hours. This story uses all four forms of present tense!",
-    "example_text": "Simple Present: I eat rice every day.\nPresent Continuous: I am eating rice now.\nPresent Perfect: I have eaten rice.\nPresent Perfect Continuous: I have been eating rice for 10 minutes.",
+    "detail_text": "Present tense is all about NOW and ALWAYS! When we say 'I play football,' it might mean I play regularly. When we say 'I am playing football,' it means I'm playing RIGHT THIS MINUTE! We also use it for things that never change, like 'The sun is hot' or 'Birds have wings.' It's what we use when talking about our daily life: 'I wake up at 7 AM,' 'I eat breakfast,' 'I go to school.' Most of our talking uses present tense!",
+    "story_text": "Now it is story time for the Present Tense. Listen carefully and imagine it in your mind. one day, Eva takes the children to a small bakery near the school. Behind the glass, the baker Lars is kneading soft dough, and the flour is floating like tiny snow in the air. The oven is warm, and fresh bread is coming out, so the whole place smells sweet. A little cat named Nina is sitting on a chair and watching the buns quietly. One bun slips a little, and Lars catches it quickly with a smile. The children are looking and pointing because everything is happening right in front of them. Every morning, Lars opens the bakery early, bakes bread, and puts it on the shelf in neat rows. Nina also comes every day and sits in the same chair as if it is her seat. The children understand the story because they can see what is happening now, and they can also feel what happens as a daily routine. When we talk about what is happening now, or what happens regularly, we are using the present tense.",
+    "example_text": "I eat rice every day.\nThis sentence is in present tense.\nIt shows a daily habit.\nThe action happens regularly.",
     "keyword": "present tense"
   },
   {
@@ -71,13 +71,16 @@
   },
   {
     "sno": 9,
-    "question": "What does the past tense explain?",
+    "question": "What is past tense?",
     "answer": "The past tense explains actions that already happened.\nThese actions are completed.\nThey did not happen in the present.\nThis tense is used for earlier events.",
     "audio_url": "assets/staticchat/lessonsaudios/9.mp3",
     "video_url": "assets/staticchat/lessonsvideos/9.mp4",
     "detail_url": "assets/staticchat/lessonsvideos/9_detail.mp4",
     "story_url": "assets/staticchat/lessonsvideos/9_story.mp4",
     "example_url": "assets/staticchat/lessonsvideos/31.mp4",
+    "detail_text": "Past tense is like a photo album of words! It shows things that are already finished. When you say 'I played football yesterday,' that's past tense. We use it for: 1. Stories: 'Once upon a time, there was a princess.' 2. Memories: 'When I was little, I had a red bicycle.' 3. Completed things: 'I finished my breakfast.' Time words that help: yesterday, last week, ago, when I was young.",
+    "story_text": "Let us learn the Past Tense with a short story.Keep listening and imagine the story step by step.One evening, a boy named Lucas saw a small scratch on his bicycle bell and remembered what happened last week. Last week, Lucas rode his bicycle to the playground with his friend. He rang the bell happily and went faster on the smooth path. Suddenly, a little stone came in the way, and the bicycle shook. Lucas stopped quickly, but the bell hit the handle and got a small scratch. He felt worried for a moment, but his friend helped him check the wheel and straighten the bell. Then they sat on the bench, drank water, and went home when it became dark. That ride is finished now, and the moment is only a memory. When we talk about something that already happened and is finished, we are using the past tense.",
+    "example_text": "I played cricket yesterday.\nThe action happened in the past.\nIt is already completed.\nIt does not happen now.",
     "keyword": "past tense"
   },
   {
@@ -121,6 +124,9 @@
     "detail_url": "assets/staticchat/lessonsvideos/14_detail.mp4",
     "story_url": "assets/staticchat/lessonsvideos/14_story.mp4",
     "example_url": "assets/staticchat/lessonsvideos/36.mp4",
+    "detail_text": "Future tense is the 'COMING SOON!' tense. It's for everything that hasn't happened yet. When you say 'I will go to college,' that's future. We use it for: 1. Plans: 'I will visit grandma tomorrow.' 2. Promises: 'I will help you with homework.' 3. Predictions: 'It will rain today.' 4. Dreams: 'I will become a doctor.' It's like making movie trailers for things that will happen!",
+    "story_text": "Let us move to the Future Tense with a small story about tomorrow. One calm day in the forest,Felix the little fox is very excited today because tomorrow he will do something special. He will invite his friends to a surprise party in the forest. He will hang leaf decorations on the branches, and he will keep sweet berries and nuts in a basket. He will ask the rabbit to bring flowers, and he will ask the monkey to bring a drum. If the wind blows strongly, he will use extra strings so the decorations will not fall. Everyone will come, they will clap, and they will sing together. The party is not happening today, but it will happen later. When we talk about something that has not happened yet and will happen later, we are using the future tense.",
+    "example_text": "I will go to school tomorrow.\nThe action will happen later.\nIt is not done yet.\nIt talks about the future.",
     "keyword": "future tense"
   },
   {
@@ -148,6 +154,9 @@
     "detail_url": "assets/staticchat/lessonsvideos/17_detail.mp4",
     "story_url": "assets/staticchat/lessonsvideos/17_story.mp4",
     "example_url": "assets/staticchat/lessonsvideos/39.mp4",
+    "detail_text": "Future Perfect is the 'WILL HAVE FINISHED' tense. It's for things that will be done before a future time. Like: 'By next year, I will have learned piano.' We make it with will have + special verb form. Use it with 'by' times: 'By tomorrow, I will have completed my project.' It's like looking back from the future at something already finished!",
+    "story_text": "We are going to learn the Future Perfect Tense through a small story. Listen carefully and create the story in your mind. On a special day, Leonie tells the children that parents will visit the class tomorrow evening for a small show. A clever raccoon named Victor wants the classroom to look perfect before they arrive. He will start early in the morning, so he will not rush later. He will put the chairs in straight lines and clean the floor carefully. He will finish the welcome poster and place it on the wall near the door. He will set the storybooks on the table and keep the crayons ready in a neat box. When the parents come in the evening, the classroom will already be ready and shining. When we talk about something that will be finished before a future time, we are using the future perfect tense.",
+    "example_text": "I will have finished my work.\nThe action will be completed.\nIt finishes before a future time.\nIt shows completion.",
     "keyword": "future perfect tense"
   },
   {
@@ -256,8 +265,8 @@
   },
   {
     "sno": 31,
-    "question": "Give an example of Past Tense and explain it.",
-    "answer": "Example: I played cricket yesterday.\nThe action happened in the past.\nIt is already completed.\nIt does not happen now.",
+    "question": "Give an example of Past Tense",
+    "answer": "Example: I played cricket yesterday.",
     "audio_url": "assets/staticchat/lessonsaudios/31.mp3",
     "video_url": "assets/staticchat/lessonsvideos/31.mp4",
     "keyword": "past tense example"
