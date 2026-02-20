@@ -73,7 +73,7 @@ def create_app():
         app,
         resources={r"/*": {"origins": ALLOWED_ORIGINS}},
         supports_credentials=True,
-        allow_headers=["Content-Type", "Authorization", "X-Requested-With", "X-User"],
+        allow_headers=["Content-Type", "Authorization", "X-Requested-With", "X-User","X-Session-Id"],
         expose_headers=["Set-Cookie"],
         methods=["GET", "POST", "OPTIONS"]
     )
@@ -89,7 +89,7 @@ def create_app():
             resp.headers["Access-Control-Allow-Origin"] = origin
             resp.headers["Vary"] = "Origin"
             resp.headers["Access-Control-Allow-Credentials"] = "true"
-            resp.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization, X-Requested-With, X-User"
+            resp.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization, X-Requested-With, X-User,X-Session-Id"
             resp.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
         return resp
     
@@ -102,7 +102,7 @@ def create_app():
                 resp.headers["Access-Control-Allow-Origin"] = origin
                 resp.headers["Access-Control-Allow-Credentials"] = "true"
             # Mirror browser's requested headers/methods
-            req_headers = request.headers.get("Access-Control-Request-Headers", "Content-Type, Authorization, X-Requested-With, X-User")
+            req_headers = request.headers.get("Access-Control-Request-Headers", "Content-Type, Authorization, X-Requested-With, X-User,X-Session-Id")
             req_method = request.headers.get("Access-Control-Request-Method", "POST")
             resp.headers["Access-Control-Allow-Headers"] = req_headers
             resp.headers["Access-Control-Allow-Methods"] = req_method
